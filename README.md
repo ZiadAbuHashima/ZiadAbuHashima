@@ -1,39 +1,81 @@
 ## Hi there 👋
-<h1 align="center">Hey 👋What's Up?</h1>
+## Hi there 👋
 
-###
+<---->
+Hi, iam Ziad Abu Hashima Known as Z3roX
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+👨‍💻 About Me
 
-###
+I am an aspiring cybersecurity researcher focused on penetration testing and vulnerability analysis. I learn by doing: practicing labs, writing reports, and building small scripts that help automate basic tasks. My goal is to develop a solid practical foundation and improve my understanding of the full attack cycle—from reconnaissance to documentation.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+🎯 Goals
+
+Strengthen my penetration testing skills
+
+Build small hands-on security projects
+
+Improve my Python and Linux knowledge
+
+Publish clear and structured write-ups
+
+Create a practical portfolio that reflects real skills
+
+
+📁 Repository Structure
+
+1) Write-ups
+
+Educational and safe write-ups from training labs showing:
+
+Reconnaissance
+
+Result analysis
+
+Basic exploitation in training environments
+
+Privilege escalation (lab-only)
+
+Clear reporting and documentation
+
+
+2) Simple Scripts
+
+Small utilities I build to automate tasks such as:
+
+Basic information gathering
+
+Data parsing
+
+Organizing workflow steps
+(All scripts are educational and not intended for harmful use.)
+
+
+3) Small Projects
+
+Mini penetration-testing projects or lab notes that demonstrate:
+
+My thought process
+
+How I approach problems
+
+How I analyze vulnerabilities
+
+How I document findings
+
+
+🛠 Skills I’m Developing
+
+Linux fundamentals
+
+Python for security
+
+Networking basics
+
+Intro to web security
+
+Writing clear security reports
+
+----«
 
 ###
 
