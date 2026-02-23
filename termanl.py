@@ -1,3 +1,4 @@
+# simple termanl
 from subprocess import run
 
 while True:
@@ -8,4 +9,5 @@ while True:
     
         run(com)
     except:
+
         print("the command is not found?")
