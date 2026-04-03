@@ -1,4 +1,4 @@
-# 🛡️ Ziad Abu Hashima (Z3roX)
+# 🛡️ Ziad Abu Hashima (Zer0xSec)
 ### 🚀 Aspiring Cybersecurity Researcher | Penetration Tester | Security Automator
 
 <div align="center">
