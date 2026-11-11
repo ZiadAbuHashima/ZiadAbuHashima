@@ -37,7 +37,7 @@ A collection of custom-built scripts for security automation and penetration tes
 - **Port Scanner:** Python-based multi-threaded port scanner.
 - **Terminal Utilities:** Custom terminal enhancements for security workflows.
 
-#### 📝 [PenTesting-Writeups](https://github.com/ZiadAbuHashima/PenTesting-Writeups)
+#### 📝 [PenTesting-Writeups](https://github.com/ZiadAbuHashima/portswigger-academy-notes)
 Detailed write-ups and reports from various penetration testing labs and security challenges.
 - **TryHackMe:** Write-ups for THM rooms.
 - **HackTheBox:** Write-ups for HTB machines.
